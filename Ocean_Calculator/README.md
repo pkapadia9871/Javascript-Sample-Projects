@@ -1,4 +1,4 @@
-#README
+# README
 
 This calculator project is adapted from existing code from the link given below. However, I added some code to 
 it to make the full functionality work, as the calculator would not render properly. I added a background Video
