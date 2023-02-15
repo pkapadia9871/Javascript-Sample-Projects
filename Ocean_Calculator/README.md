@@ -4,5 +4,8 @@ This calculator project is adapted from existing code from the link given below.
 it to make the full functionality work, as the calculator would not render properly. I added a background Video
 to make the app more beautified.
 
+To run the code in Visual Studio run "start index.html".
+
 Code link (source cited): https://hackr.io/blog/javascript-projects
+
 Video image link: https://www.pexels.com/video/waves-crashing-1390942/
